@@ -5,11 +5,17 @@ Enter a Matrix of M Rows X N Columns.
 Example : 5 X 5 Matrix
 
 int a[4][4] = {
+
 	{3, 7, 8, 1, 7},
+	
 	{5, 4, 2, 6, 9},
+	
 	{9, 3, 4, 7, 3},
+	
 	{1, 5, 2, 6, 8},
+	
 	{4, 8, 2, 1, 5}
+
 };
 
 This should output
